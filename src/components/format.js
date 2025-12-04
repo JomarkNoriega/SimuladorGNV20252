@@ -1,4 +1,1 @@
-export function moneda(amount){
-  if (amount === null || amount === undefined || isNaN(Number(amount))) return 'S/ -';
-  return 'S/ ' + Number(amount).toFixed(2);
-}
+export function moneda(a){ if(a==null||isNaN(Number(a))) return 'S/ -'; return 'S/ '+Number(a).toFixed(2);}
