@@ -1,12 +1,13 @@
 {
   "name": "gnv-simulador",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint --no-inline-config --max-warnings=0 || true"
+    "lint": "next lint --no-inline-config --max-warnings=0 || true",
+    "postinstall": "npx --yes next telemetry disable || true"
   },
   "dependencies": {
     "next": "14.2.5",
