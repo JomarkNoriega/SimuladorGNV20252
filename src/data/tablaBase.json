@@ -1,0 +1,322 @@
+[
+  {
+    "actividad": "INFORMAL",
+    "monto": 2500,
+    "plazo": 24,
+    "sinSeguro": 202.0,
+    "conSeguroVida": 207.1,
+    "seguroVidaRuta": 212.1,
+    "seguroVidaRutSolidario": 228.0,
+    "recaudo": "50%"
+  },
+  {
+    "actividad": "INFORMAL",
+    "monto": 2500,
+    "plazo": 23,
+    "sinSeguro": 206.0,
+    "conSeguroVida": 211.1,
+    "seguroVidaRuta": 216.2,
+    "seguroVidaRutSolidario": 231.7,
+    "recaudo": "50%"
+  },
+  {
+    "actividad": "INFORMAL",
+    "monto": 2500,
+    "plazo": 22,
+    "sinSeguro": 211.0,
+    "conSeguroVida": 215.5,
+    "seguroVidaRuta": 215.5,
+    "seguroVidaRutSolidario": 230.7,
+    "recaudo": "50%"
+  },
+  {
+    "actividad": "INFORMAL",
+    "monto": 2500,
+    "plazo": 21,
+    "sinSeguro": 216.0,
+    "conSeguroVida": 220.5,
+    "seguroVidaRuta": 225.8,
+    "seguroVidaRutSolidario": 240.6,
+    "recaudo": "55%"
+  },
+  {
+    "actividad": "INFORMAL",
+    "monto": 2500,
+    "plazo": 20,
+    "sinSeguro": 221.0,
+    "conSeguroVida": 226.0,
+    "seguroVidaRuta": 231.4,
+    "seguroVidaRutSolidario": 245.9,
+    "recaudo": "55%"
+  },
+  {
+    "actividad": "INFORMAL",
+    "monto": 2500,
+    "plazo": 19,
+    "sinSeguro": 227.0,
+    "conSeguroVida": 232.1,
+    "seguroVidaRuta": 237.7,
+    "seguroVidaRutSolidario": 251.8,
+    "recaudo": "55%"
+  },
+  {
+    "actividad": "INFORMAL",
+    "monto": 2500,
+    "plazo": 18,
+    "sinSeguro": 235.0,
+    "conSeguroVida": 239.0,
+    "seguroVidaRuta": 244.8,
+    "seguroVidaRutSolidario": 258.5,
+    "recaudo": "55%"
+  },
+  {
+    "actividad": "INFORMAL",
+    "monto": 2500,
+    "plazo": 17,
+    "sinSeguro": 242.0,
+    "conSeguroVida": 246.9,
+    "seguroVidaRuta": 252.8,
+    "seguroVidaRutSolidario": 266.2,
+    "recaudo": "60%"
+  },
+  {
+    "actividad": "INFORMAL",
+    "monto": 2500,
+    "plazo": 16,
+    "sinSeguro": 252.0,
+    "conSeguroVida": 255.8,
+    "seguroVidaRuta": 261.9,
+    "seguroVidaRutSolidario": 275.0,
+    "recaudo": "60%"
+  },
+  {
+    "actividad": "INFORMAL",
+    "monto": 2500,
+    "plazo": 15,
+    "sinSeguro": 262.0,
+    "conSeguroVida": 266.0,
+    "seguroVidaRuta": 272.4,
+    "seguroVidaRutSolidario": 285.0,
+    "recaudo": "80%"
+  },
+  {
+    "actividad": "INFORMAL",
+    "monto": 2500,
+    "plazo": 14,
+    "sinSeguro": 272.0,
+    "conSeguroVida": 277.8,
+    "seguroVidaRuta": 284.5,
+    "seguroVidaRutSolidario": 296.9,
+    "recaudo": "85%"
+  },
+  {
+    "actividad": "INFORMAL",
+    "monto": 2500,
+    "plazo": 13,
+    "sinSeguro": 262.0,
+    "conSeguroVida": 266.0,
+    "seguroVidaRuta": 272.4,
+    "seguroVidaRutSolidario": 310.0,
+    "recaudo": "85%"
+  },
+  {
+    "actividad": "INFORMAL",
+    "monto": 2500,
+    "plazo": 12,
+    "sinSeguro": 315.0,
+    "conSeguroVida": 319.65,
+    "seguroVidaRuta": 324.96,
+    "seguroVidaRutSolidario": 341.03,
+    "recaudo": "85%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 30,
+    "sinSeguro": 325.0,
+    "conSeguroVida": 336.3,
+    "seguroVidaRuta": 340.8,
+    "seguroVidaRutSolidario": 358.7,
+    "recaudo": "50%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 29,
+    "sinSeguro": 330.0,
+    "conSeguroVida": 340.4,
+    "seguroVidaRuta": 345.0,
+    "seguroVidaRutSolidario": 362.5,
+    "recaudo": "50%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 28,
+    "sinSeguro": 334.0,
+    "conSeguroVida": 344.9,
+    "seguroVidaRuta": 349.5,
+    "seguroVidaRutSolidario": 366.7,
+    "recaudo": "50%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 27,
+    "sinSeguro": 340.0,
+    "conSeguroVida": 349.9,
+    "seguroVidaRuta": 354.5,
+    "seguroVidaRutSolidario": 371.3,
+    "recaudo": "50%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 26,
+    "sinSeguro": 345.0,
+    "conSeguroVida": 355.3,
+    "seguroVidaRuta": 360.1,
+    "seguroVidaRutSolidario": 376.5,
+    "recaudo": "50%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 25,
+    "sinSeguro": 351.0,
+    "conSeguroVida": 361.3,
+    "seguroVidaRuta": 366.1,
+    "seguroVidaRutSolidario": 382.5,
+    "recaudo": "50%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 24,
+    "sinSeguro": 358.0,
+    "conSeguroVida": 367.8,
+    "seguroVidaRuta": 372.7,
+    "seguroVidaRutSolidario": 388.4,
+    "recaudo": "50%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 23,
+    "sinSeguro": 366.0,
+    "conSeguroVida": 375.0,
+    "seguroVidaRuta": 380.0,
+    "seguroVidaRutSolidario": 395.4,
+    "recaudo": "50%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 22,
+    "sinSeguro": 374.0,
+    "conSeguroVida": 383.0,
+    "seguroVidaRuta": 388.2,
+    "seguroVidaRutSolidario": 403.2,
+    "recaudo": "50%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 21,
+    "sinSeguro": 383.0,
+    "conSeguroVida": 392.0,
+    "seguroVidaRuta": 397.2,
+    "seguroVidaRutSolidario": 411.0,
+    "recaudo": "50%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 20,
+    "sinSeguro": 393.0,
+    "conSeguroVida": 402.0,
+    "seguroVidaRuta": 407.0,
+    "seguroVidaRutSolidario": 421.6,
+    "recaudo": "55%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 19,
+    "sinSeguro": 404.0,
+    "conSeguroVida": 413.0,
+    "seguroVidaRuta": 418.5,
+    "seguroVidaRutSolidario": 432.5,
+    "recaudo": "55%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 18,
+    "sinSeguro": 417.0,
+    "conSeguroVida": 425.6,
+    "seguroVidaRuta": 431.2,
+    "seguroVidaRutSolidario": 444.9,
+    "recaudo": "80%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 17,
+    "sinSeguro": 431.0,
+    "conSeguroVida": 439.7,
+    "seguroVidaRuta": 445.5,
+    "seguroVidaRutSolidario": 458.8,
+    "recaudo": "85%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 16,
+    "sinSeguro": 448.0,
+    "conSeguroVida": 455.8,
+    "seguroVidaRuta": 461.9,
+    "seguroVidaRutSolidario": 474.8,
+    "recaudo": "85%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 15,
+    "sinSeguro": 466.0,
+    "conSeguroVida": 474.2,
+    "seguroVidaRuta": 480.5,
+    "seguroVidaRutSolidario": 493.2,
+    "recaudo": "85%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 14,
+    "sinSeguro": 488.0,
+    "conSeguroVida": 495.5,
+    "seguroVidaRuta": 502.1,
+    "seguroVidaRutSolidario": 514.4,
+    "recaudo": "85%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 13,
+    "sinSeguro": 532.0,
+    "conSeguroVida": 541.21,
+    "seguroVidaRuta": 537.29,
+    "seguroVidaRutSolidario": 552.14,
+    "recaudo": "85%"
+  },
+  {
+    "actividad": "FORMAL/APP",
+    "monto": 4500,
+    "plazo": 12,
+    "sinSeguro": 562.0,
+    "conSeguroVida": 571.21,
+    "seguroVidaRuta": 576.5,
+    "seguroVidaRutSolidario": 591.36,
+    "recaudo": "85%"
+  }
+]
