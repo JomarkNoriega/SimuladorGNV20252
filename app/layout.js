@@ -1,0 +1,14 @@
+export const metadata = {
+  title: 'Simulador GNV',
+  description: 'Cálculo de cuotas según tabla base',
+};
+
+export default function RootLayout({ children }) {
+  return (
+    <html lang="es">
+      <body style={{ fontFamily: 'system-ui, Arial, sans-serif', background:'#0f172a', color:'#e2e8f0', margin:0 }}>
+        {children}
+      </body>
+    </html>
+  );
+}
